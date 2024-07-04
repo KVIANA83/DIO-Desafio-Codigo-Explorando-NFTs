@@ -3,4 +3,5 @@
 ## Desafio do Código Explorando NFTs com Lógica de Programação
 
 - **Desafio1:** Explorando o Mundo dos NFTs e Criptomoedas
-- **Desafio2:** 
+- **Desafio2:** Identificando os Padrões de Token NFT
+- **Desafio3:** 
