@@ -4,4 +4,4 @@
 
 - **Desafio1:** Explorando o Mundo dos NFTs e Criptomoedas
 - **Desafio2:** Identificando os Padrões de Token NFT
-- **Desafio3:** 
+- **Desafio3:** Associando Termos de DAO e DeFi
